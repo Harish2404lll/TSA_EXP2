@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/3f378644-0663-41d1-b4e3-13672e6eae6e)# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
+
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
